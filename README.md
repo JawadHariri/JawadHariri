@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JawadHariri
 - 👀 I’m interested in IT and computer science stuff... and women
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: sfirstplace@gmail.com
 
 <!---
